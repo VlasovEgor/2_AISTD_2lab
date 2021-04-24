@@ -1,0 +1,26 @@
+﻿  2AISTD_lab2.cpp
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Red_Black_Tree.h(100,13): error C2065: Key: необъявленный идентификатор
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Red_Black_Tree.h(100,17): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "insKey"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Red_Black_Tree.h(101,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Red_Black_Tree.h(101,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(29,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(72,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(117,16): error C2039: "insert": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(119,69): error C2039: "get_last": не является членом "Stack<Huffman::Node *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(87): message : см. объявление "Stack<Huffman::Node *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(142,15): error C2039: "insert": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(157,15): error C2039: "insert": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(164,27): error C2039: "find": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(170,25): error C2039: "find": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(171,38): error C2039: "find": не является членом "RBTree<char,Huffman::strArr *>".
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\Huffman.h(42): message : см. объявление "RBTree<char,Huffman::strArr *>"
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\2AISTD_lab2.cpp(21,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\vlaso\Desktop\ucheba-4sem\AISTD\2AISTD_lab2\2AISTD_lab2.cpp(28,26): warning C4018: <: несоответствие типов со знаком и без знака
+  Queue.cpp
+  Stack.cpp
+  Создание кода...
